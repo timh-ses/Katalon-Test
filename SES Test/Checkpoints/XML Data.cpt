@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>XML Data</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Test Data</source-url>
+   </source-info>
+   <taken-date>2020-03-02T14:40:40.487</taken-date>
+   <column-names>
+      <column-name>Patient</column-name>
+      <column-name>TESTUSER SES</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Date of birth",
+      "checked": false
+    },
+    {
+      "value": "28-Sep-79",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sex",
+      "checked": false
+    },
+    {
+      "value": "Female",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "Home:",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "1 APPLE ST",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "WOBURN, MA 01808, US",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "(999)999-9999",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "6515605",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Patient IDs",
+      "checked": false
+    },
+    {
+      "value": "E76696 1.2.840.1.114350",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Patient IDs",
+      "checked": false
+    },
+    {
+      "value": "E76696 1.2.840.1.114350",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Patient IDs",
+      "checked": false
+    },
+    {
+      "value": "81.SES23 2.16.840.1.113883.17.4182",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Document created",
+      "checked": false
+    },
+    {
+      "value": "February 12, 2018, 11:46:57",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Performer (primary care physician)",
+      "checked": false
+    },
+    {
+      "value": "PCP NONE",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Author",
+      "checked": false
+    },
+    {
+      "value": "Notify",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Encounter Id",
+      "checked": false
+    },
+    {
+      "value": "HOSP",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Encounter date",
+      "checked": false
+    },
+    {
+      "value": "From December 29, 2017, 14:57:00",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Encounter location",
+      "checked": false
+    },
+    {
+      "value": "No Name",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Document maintained by",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "Work Place:",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "41 Highland Ave",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "value": "Winchester, MA 01890",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Contact info",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Payer name",
+      "checked": false
+    },
+    {
+      "value": "Policy ID",
+      "checked": false
+    },
+    {
+      "value": "Covered party ID",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "BLUE CROSS BLUE SHIELD",
+      "checked": false
+    },
+    {
+      "value": "PZK988900027",
+      "checked": false
+    },
+    {
+      "value": "1110000011",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
